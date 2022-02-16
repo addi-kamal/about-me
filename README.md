@@ -3,7 +3,7 @@
 
 I am Kamal, a Data Engineering Student at @INPT, Rabat. Passionate about the AI fields🤖🧠, I have worked on different ML & AI projects, Hakathons and Challenges🦾. And I'm interested to work in more. 
 
-I currently work as a Junior Data Engineer at @DASEC compamy. I'm also the Team Leader of SIFE-INPT (Students In Free Enterprise). 
+I currently work as a Data Scientist Intern at AFD  Technologies compamy. I'm also member of Omdena community. 
 
 My hobbies are Playing Chess ♟♟, Traveling ✈ and Listening to Music with My Lovely Dog 🐕‍🐕‍🤠
 
