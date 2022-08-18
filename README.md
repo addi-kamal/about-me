@@ -1,14 +1,15 @@
 # about-me
 ## Welcome to my Github!😀
 
-I am Kamal, a Data Engineering Student at @INPT, Rabat. Passionate about the AI fields🤖🧠, I have worked on different ML & AI projects, Hakathons and Challenges🦾. And I'm interested to work in more. 
+I am Kamal, a Data Engineer & Student at Paris Saclay University, France. Passionate about the AI fields and data, I have worked on different ML & AI projects, Hakathons and Challenges. And I'm interested to work in more. 
 
-I currently work as a Data Scientist Intern at AFD  Technologies compamy. I'm also member of Omdena community. 
+I currently work as a Data Engineer Intern at AFD.TACH Part of Accenture. I'm also Campus Ambassador at ZINDI. 
 
-My hobbies are Playing Chess ♟♟, Traveling ✈ and Listening to Music with My Lovely Dog 🐕‍🐕‍🤠
+My hobbies are Playing Chess, Traveling and Listening to Music with my Lovely Cat.
 
 
-* Feel free to add me on LinkedIn : https://www.linkedin.com/in/kamal-addi/
+* Feel free to add me on LinkedIn : 
+https://linkedin.com/in/addi-kamal
 * or to contact me at : addi.kamal@ine.inpt.ma
 
 <p>
