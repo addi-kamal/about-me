@@ -1,11 +1,13 @@
  <h1 align="center">Hi, Welcome to my Github!😀</h1>
 
 
-I am Kamal, a Data Engineer from the National Institute of Posts and Telecommunications (INPT), Morocco & M2 Student at Paris Saclay University, France. Passionate about the AI fields and data engineering, I have worked on different ML & AI projects, Hakathons and Challenges. And I'm interested to work in more. 
+Data engineer graduated from the National Institute of Posts and Telecommunications (INPT), Morocco. With a strong technical and analytical skills in engineering, applied mathematics, programming and databases.
 
-I'm a Campus Ambassador at ZINDI. 
+Currently pursuing a Master degree in Data management in large scale distributed systems at Paris Saclay University.
 
-My hobbies are Playing Chess, Reading, Traveling and Listening to Music with my Lovely Cat.
+Interested in building data pipelines, create & maintain cloud-based data architectures, and solving complex problems.
+
+My hobbies are Playing Chess, Reading, Traveling and Listening to Music.
 
 
 * Feel free to add me on LinkedIn : 
