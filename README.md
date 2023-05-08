@@ -3,7 +3,7 @@
 
 Data engineer graduated from the National Institute of Posts and Telecommunications (INPT), Morocco. With a strong technical and analytical skills in engineering, applied mathematics, programming and databases.
 
-Currently pursuing a Master degree in Data management in large scale distributed systems at Paris Saclay University.
+Currently pursuing a Master degree in Data management in large scale distributed systems at Paris Saclay University & Data engineer intern at Easyence.
 
 Interested in building data pipelines, create & maintain cloud-based data architectures, and solving complex problems.
 
