@@ -1,18 +1,18 @@
  <h1 align="center">Hi, Welcome to my Github!😀</h1>
 
 
-Data engineer graduated from the National Institute of Posts and Telecommunications (INPT), Morocco. With a strong technical and analytical skills in engineering, applied mathematics, programming and databases.
+Data engineer graduated from the National Institute of Posts and Telecommunications (INPT), Morocco (Engineering degree) & Paris Saclay University, France (Master's degree). With a strong technical and analytical skills in engineering, applied mathematics, programming and databases.
 
-Currently pursuing a Master degree in Data management in large scale distributed systems at Paris Saclay University & Data engineer intern at Easyence.
+Currently working as Data engneer intern at Easyence.
 
 Interested in building data pipelines, create & maintain cloud-based data architectures, and solving complex problems.
+
 
 My hobbies are Playing Chess, Reading, Traveling and Listening to Music.
 
 
 * Feel free to add me on LinkedIn : 
 https://linkedin.com/in/addi-kamal
-* or to contact me at : addi.kamal@ine.inpt.ma
 
 
 ### 🎇 GitHub Stats
